@@ -80,6 +80,14 @@ PERSOENLICH[4] = {
   bildtext: "Ich war schon immer neidisch auf deinen Biezeps",
   text: "Beweise das du stärker bist als ich indem du dir eine Sportchallange ausdenkst, in der du gewinnst!.\n\nNeue Zeile mit \\n, Absatz mit zwei \\n."
 };
+
+PERSOENLICH[5] = {
+  typ: "Rätsel",
+  bildtext: "Schaffst du es das Rätsel zu lösen?",
+  text: "Was kommt einmal in jeder Minute, zweimal in jedem Moment, aber nie in tausend Jahren vor?"
+};
+
+
 // ===== 365 EINTRÄGE ZUSAMMENBAUEN =====
 const EINTRAEGE = (function () {
   const liste = [];
