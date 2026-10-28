@@ -93,6 +93,2154 @@ PERSOENLICH[6] = {
   text: "Ein Spieleabend (egal welches und egal wie oft)"
 };
 
+PERSOENLICH[8] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[9] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[10] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[11] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[12] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[13] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[14] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[15] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[16] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[17] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[18] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[19] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[20] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[21] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[22] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[23] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[24] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[25] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[26] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[27] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[28] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[29] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[30] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[31] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[32] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[33] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[34] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[35] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[36] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[37] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[38] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[39] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[40] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[41] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[42] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[43] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[44] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[45] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[46] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[47] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[48] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[49] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[50] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[51] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[52] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[53] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[54] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[55] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[56] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[57] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[58] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[59] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[60] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[61] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[62] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[63] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[64] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[65] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[66] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[67] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[68] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[69] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[70] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[71] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[72] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[73] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[74] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[75] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[76] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[77] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[78] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[79] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[80] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[81] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[82] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[83] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[84] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[85] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[86] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[87] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[88] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[89] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[90] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[91] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[92] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[93] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[94] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[95] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[96] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[97] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[98] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[99] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[100] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[101] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[102] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[103] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[104] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[105] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[106] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[107] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[108] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[109] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[110] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[111] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[112] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[113] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[114] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[115] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[116] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[117] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[118] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[119] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[120] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[121] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[122] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[123] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[124] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[125] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[126] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[127] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[128] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[129] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[130] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[131] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[132] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[133] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[134] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[135] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[136] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[137] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[138] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[139] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[140] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[141] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[142] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[143] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[144] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[145] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[146] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[147] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[148] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[149] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[150] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[151] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[152] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[153] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[154] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[155] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[156] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[157] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[158] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[159] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[160] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[161] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[162] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[163] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[164] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[165] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[166] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[167] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[168] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[169] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[170] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[171] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[172] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[173] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[174] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[175] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[176] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[177] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[178] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[179] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[180] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[181] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[182] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[183] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[184] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[185] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[186] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[187] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[188] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[189] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[190] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[191] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[192] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[193] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[194] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[195] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[196] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[197] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[198] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[199] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[200] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[201] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[202] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[203] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[204] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[205] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[206] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[207] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[208] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[209] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[210] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[211] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[212] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[213] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[214] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[215] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[216] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[217] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[218] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[219] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[220] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[221] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[222] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[223] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[224] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[225] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[226] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[227] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[228] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[229] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[230] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[231] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[232] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[233] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[234] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[235] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[236] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[237] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[238] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[239] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[240] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[241] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[242] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[243] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[244] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[245] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[246] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[247] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[248] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[249] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[250] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[251] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[252] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[253] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[254] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[255] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[256] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[257] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[258] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[259] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[260] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[261] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[262] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[263] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[264] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[265] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[266] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[267] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[268] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[269] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[270] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[271] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[272] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[273] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[274] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[275] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[276] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[277] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[278] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[279] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[280] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[281] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[282] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[283] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[284] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[285] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[286] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[287] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[288] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[289] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[290] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[291] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[292] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[293] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[294] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[295] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[296] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[297] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[298] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[299] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[300] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[301] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[302] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[303] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[304] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[305] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[306] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[307] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[308] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[309] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[310] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[311] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[312] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[313] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[314] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[315] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[316] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[317] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[318] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[319] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[320] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[321] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[322] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[323] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[324] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[325] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[326] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[327] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[328] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[329] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[330] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[331] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[332] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[333] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[334] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[335] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[336] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[337] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[338] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[339] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[340] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[341] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[342] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[343] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[344] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[345] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[346] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[347] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[348] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[349] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[350] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[351] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[352] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[353] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[354] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[355] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[356] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[357] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[358] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[359] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[360] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[361] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[362] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[363] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[364] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
+PERSOENLICH[365] = {
+  typ: "",
+  bildtext: "",
+  text: ""
+};
+
 
 // ===== 365 EINTRÄGE ZUSAMMENBAUEN =====
 const EINTRAEGE = (function () {
